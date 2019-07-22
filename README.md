@@ -1,4 +1,4 @@
-# Couchbase grpc
+# Couchbase SSL Test
 ### How to test if your SSL certificate is valid for connecting to Couchbase
 > This comes from:<br />
 [Authenticating a Java Client by Certificate](https://docs.couchbase.com/server/5.5/security/security-x509certsintro.html#cert_auth_for_java_client)
