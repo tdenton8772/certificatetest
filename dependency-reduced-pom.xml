@@ -94,6 +94,8 @@
     </plugins>
   </build>
   <properties>
+    <slf4j-api.version>1.7.7</slf4j-api.version>
+    <logback.version>1.1.2</logback.version>
     <mainClass>com.couchbase.CertificateTest.main</mainClass>
     <maven.compiler.source>1.8</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
