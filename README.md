@@ -18,3 +18,8 @@
 > Properties file must be updated specifically for the environment to be tested<br />
 > mvn clean package<br />
 > java -jar ./target/certificatetest-1.0-SNAPSHOT.jar<br />Admins-MacBook-Pro:Downloads
+
+### Logs
+> After the app is run a logs directory should be created<br />
+> In the logs dir there should be an app.log file<br />
+> This log file should be provided to the troubleshooting team for determining SSL issues
